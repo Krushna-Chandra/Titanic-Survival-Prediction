@@ -1,4 +1,3 @@
-```
 # 🚢 Titanic Survival Prediction
 
 **A Complete End-to-End Machine Learning Project**  
