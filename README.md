@@ -63,11 +63,21 @@ https://www.kaggle.com/c/titanic
 
 The project includes multiple visual insights, such as:
 
-- Survival counts  
-- Survival by gender & class  
-- Age distribution  
-- Fare comparison  
-- Correlation heatmap
+- Survival counts
+   <img width="876" height="549" alt="image" src="https://github.com/user-attachments/assets/a31f67f9-50e4-4d7a-9c29-9d97db355aa0" />
+
+- Survival by gender & class
+  <img width="882" height="566" alt="image" src="https://github.com/user-attachments/assets/7fd9f2e5-5421-49b5-be88-1401fcc049c7" />
+  
+- Age distribution
+  <img width="883" height="556" alt="image" src="https://github.com/user-attachments/assets/3f53962e-6644-4e51-9bde-0016c00a0d1d" />
+
+- Fare comparison
+  <img width="889" height="546" alt="image" src="https://github.com/user-attachments/assets/57713854-4f3c-41ce-9cd6-8a67909af896" />
+
+- Servival Rate by Passenger Class
+  <img width="883" height="547" alt="image" src="https://github.com/user-attachments/assets/fc960d3e-3487-445f-9ef0-685a09777a9b" />
+
 
 These help to understand patterns in the data and how different features affect passenger survival.
 
