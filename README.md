@@ -166,9 +166,3 @@ This project demonstrates a structured end-to-end machine learning workflow incl
 ✔ Create interactive dashboards
 
 ---
-
-## 📜 License
-
-This project is licensed under the **MIT License** 👨‍💻
-
-```
