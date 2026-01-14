@@ -22,7 +22,6 @@ This project builds a classification model that predicts the likelihood of a pas
 - [📁 File Structure](#-file-structure)  
 - [📌 Conclusion](#-conclusion)  
 - [📌 Future Improvements](#-future-improvements)  
-- [📜 License](#-license)
 
 ---
 
